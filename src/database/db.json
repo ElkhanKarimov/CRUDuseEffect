@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mercedes",
+      "info": "car"
+    },
+    {
+      "id": "2",
+      "name": "BMW",
+      "info": "car"
+    },
+    {
+      "id": "3",
+      "name": "Aston Martin",
+      "info": "car"
+    },
+    {
+      "id": "4",
+      "name": "Lamborghini",
+      "info": "car"
+    },
+    {
+      "id": "5",
+      "name": "Wolswagen",
+      "info": "car"
+    },
+    {
+      "id": "6",
+      "name": "Audi",
+      "info": "car"
+    },
+    {
+      "id": "8",
+      "name": "LI",
+      "info": "car"
+    }
+    
+  ]
+}
